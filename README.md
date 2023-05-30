@@ -18,6 +18,9 @@ This file contains the numpy array of the nodes' features. Further details are e
     * conf3NEW_random.pt : weights for the third-configuration of models (GAT), these are obtained with random features, instead of those provided in acousticbrainz.npy.  
     * conf3NEW.pt :  weights for the third-configuration of models (GAT)  
     * three_layerSAGENEW.pt : weights for the three layers GraphSAGE.  
+* report.pdf : This pdf contains a detailed and theoretical description of our work, and indications about the results, and how we have achieved them.
+* presentation.pptx : This presentation was the one that depicts our work.
+  
 
 
 
