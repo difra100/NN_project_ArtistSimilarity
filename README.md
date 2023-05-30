@@ -12,9 +12,13 @@ The whole implementation is in the Olga.ipynb python notebook, whereas the other
 * MsbMapped.json, graphSimilarities.json : These json files contain the relation between artists in a .json format; they are extracted and used within the notebook, the details are in the 'Olga.ipynb' file.
 * dizofartist.json : This file contains the encoding between the id of an artist in the dataset and its name/band name.
 * olga.csv : This is the olga dataset in .csv format.
-* acousticbrain.npy : This file is too heavy and it is not present in this repository, but it is available at the main [project repository](https://gitlab.com/fdlm/olga://paperswithcode.com/paper/artist-similarity-with-graph-neural-networks). 
+* acousticbrain.npy : This file is too heavy and it is not present in this repository. It could be downloadable in the Olga.ipynb, or also at the main [project repository](https://gitlab.com/fdlm/olga://paperswithcode.com/paper/artist-similarity-with-graph-neural-networks). 
 This file contains the numpy array of the nodes' features. Further details are explained in the notebook.
-* models : It is the folder which contains all the trained models in our project.
+* models/ : It is the folder which contains all the trained models in our project.  
+    * conf3NEW_random.pt : weights for the third-configuration of models (GAT), these are obtained with random features, instead of those provided in acousticbrainz.npy.  
+    * conf3NEW.pt :  weights for the third-configuration of models (GAT)  
+    * three_layerSAGENEW.pt : weights for the three layers GraphSAGE.  
+
 
 
 
