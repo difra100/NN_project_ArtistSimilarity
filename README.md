@@ -1,4 +1,4 @@
-# Neural Networks project, 2022
+# Neural Networks project, 2021/2022
 - ## Artist similarity with Graph neural Networks (re-implementation)
 In this repository we present a complete re-implementation of the paper ['Artist Similarity with Graph Neural Networks'](https://arxiv.org/abs/2107.14541).
 - Since the project's code wasn't provided by the authors, except for the [dataset](https://gitlab.com/fdlm/olga://paperswithcode.com/paper/artist-similarity-with-graph-neural-networks), we attempted to repeat the experiments described in the paper, and we have additionally tried 
