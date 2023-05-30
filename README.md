@@ -20,7 +20,10 @@ This file contains the numpy array of the nodes' features. Further details are e
     * conf3NEW.pt :  weights for the third-configuration of models (GAT)  
     * three_layerSAGENEW.pt : weights for the three layers GraphSAGE.  
 * report.pdf : This pdf contains a detailed and theoretical description of our work, and indications about the results, and how we have achieved them.
-* presentation.pptx : This presentation was the one that depicts our work.
+* presentation.pptx : This presentation was the one that depicts our work.  
+  
+  
+**IMPORTANT**: This project have been extended and improved its presented methodologies with further experimental validation. The most recent and correct results are available at this [repository](https://github.com/difra100/AS-Project).
   
 
 
